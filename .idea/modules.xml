@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstract-factory-pattern/abstract-factory-pattern.iml" filepath="$PROJECT_DIR$/abstract-factory-pattern/abstract-factory-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" filepath="$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command-pattern/command-pattern.iml" filepath="$PROJECT_DIR$/command-pattern/command-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite-pattern/composite-pattern.iml" filepath="$PROJECT_DIR$/composite-pattern/composite-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory-method-pattern/factory-method-pattern.iml" filepath="$PROJECT_DIR$/factory-method-pattern/factory-method-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterator-pattern/iterator-pattern.iml" filepath="$PROJECT_DIR$/iterator-pattern/iterator-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer-pattern/observer-pattern.iml" filepath="$PROJECT_DIR$/observer-pattern/observer-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" filepath="$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton-pattern/singleton-pattern.iml" filepath="$PROJECT_DIR$/singleton-pattern/singleton-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-pattern/state-pattern.iml" filepath="$PROJECT_DIR$/state-pattern/state-pattern.iml" />
+    </modules>
+  </component>
+</project>
